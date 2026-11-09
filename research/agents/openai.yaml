@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research Toolkit"
+  short_description: "Verify evidence and create clear research reports"
+  default_prompt: "Use $research to investigate this question, verify sources, and explain what the evidence supports."
+policy:
+  products: ["chatgpt", "codex", "api", "atlas"]
+  allow_implicit_invocation: true

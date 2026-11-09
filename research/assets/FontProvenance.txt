@@ -1,0 +1,2 @@
+Research SC Regular and Bold are renamed static instances of Adobe Source Han Sans SC.
+They are distributed under the SIL Open Font License 1.1. See FontLicense.txt.
